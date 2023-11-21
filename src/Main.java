@@ -9,6 +9,7 @@ public class Main{
             cont++;
             resultado=i+cont;
             System.out.println(i+"+"+cont+"="+resultado);
+            --cont;
         }
 
 
